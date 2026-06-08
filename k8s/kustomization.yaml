@@ -10,4 +10,4 @@ resources:
 - api-service.yaml
 images:
 - name: arthurisrael/registro-atividades-backend
-  newTag: e37a8b7a39a7849cae8d2f865400184e345b15e7
+  newTag: e8a67b4bdfaa4b457ff4a3c301f8e6c3dca89d50
