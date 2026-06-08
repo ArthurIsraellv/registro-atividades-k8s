@@ -10,7 +10,7 @@ resources:
 - api-service.yaml
 images:
 - name: arthurisrael/registro-atividades-backend
-  newTag: b346f1d1c962abdd93d8056de602c82e180a3faa
+  newTag: eb2045013db79a8d83c8da3cd2a11b169ae6ee27
 - name: eduardosilvasc/registro-atividades-backend
   newName: eduardosilvasc/registro-atividades-backend
   newTag: latest
